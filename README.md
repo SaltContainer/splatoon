@@ -1,6 +1,6 @@
 # 🐙 Splatoon 3 checklist
 
-A web app to help Splatoon completionists in their progress tracking.
+A web app to help Splatoon completionists in their progress tracking. (Updated with 3.0.0 gear!)
 
 ![](/images/screenshot.png)
 
