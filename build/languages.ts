@@ -42,7 +42,7 @@ export async function build() {
       "LayoutMsg/Cmn_CstBase_00":_menu2,
       "LayoutMsg/Plz_ItemMenu_00":_menu3,
       "LayoutMsg/Cmn_ManualAll_00":_menu4,
-    } =  await fetch(url(`data/language/${id}.json`)).then(response => response.json())
+    } = await fetch(url(`data/language/${id}.json`)).then(response => response.json())
 
     //Format data
     const data = {
